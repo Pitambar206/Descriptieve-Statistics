@@ -1,1 +1,1 @@
-# Descriptieve-Statistics
+# Descriptive-Statistics
